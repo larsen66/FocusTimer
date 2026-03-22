@@ -6,6 +6,10 @@ A minimal macOS menu bar app for deep work sessions — built with Swift 6, Swif
 ![Swift](https://img.shields.io/badge/swift-6.0-orange?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-white?style=flat-square)
 
+<br>
+
+[![FocusTimer demo](demo.gif)](https://x.com/i/status/2035691910187090115)
+
 ---
 
 ## What it does
